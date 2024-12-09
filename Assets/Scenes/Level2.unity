@@ -570,7 +570,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   loadDelay: 1
   finishEffect: {fileID: 1225550390}
-  scene: Level1
+  scene: WIn
 --- !u!82 &163585791
 AudioSource:
   m_ObjectHideFlags: 0
